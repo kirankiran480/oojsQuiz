@@ -1,0 +1,17 @@
+{
+  "name": "accolite-quiz",
+  "version": "1.0.0",
+  "description": "sample quiz app using oops js and prototypes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "oops",
+    "oopsJS",
+    "Javascript",
+    "vanillajs"
+  ],
+  "author": "kiran gudla",
+  "license": "MIT"
+}
